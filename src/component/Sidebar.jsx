@@ -2,7 +2,11 @@ import React from 'react'
 
 const Sidebar = () => {
   return (
-    <div>Sidebar</div>
+    <div className='Sidebar'>
+        <ul className='SidebarList'>
+        
+        </ul>
+    </div>
   )
 }
 
